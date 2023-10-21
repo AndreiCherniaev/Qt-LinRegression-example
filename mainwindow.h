@@ -13,7 +13,6 @@
 QT_BEGIN_NAMESPACE
 namespace Ui { class MainWindow; }
 QT_END_NAMESPACE
-using namespace QtCharts;
 class MainWindow : public QMainWindow
 {
     Q_OBJECT
